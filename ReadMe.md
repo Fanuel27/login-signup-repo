@@ -45,4 +45,4 @@ hotdoc/
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/login-signup-system.git
+   git clone https://github.com/Fanuel27/login-signup-repo.git
