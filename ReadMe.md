@@ -12,7 +12,7 @@ A simple HTML/CSS/JavaScript + PHP login and signup system that stores user cred
 
 ##  Live Demo
 
-Click here to try it live  (http://login-signup.infinityfreeapp.com)
+Click here to try it live  (http://fanuel.atwebpages.com)
 
 
 ##  Technologies Used
